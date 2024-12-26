@@ -6,7 +6,7 @@
     🤖📙Estudante com interesse em inteligência artificial e desenvolvimento web.<br>
     💕🔎 Sempre em busca de aprendizado contínuo e desafios que impulsionem meu crescimento profissional e pessoal.<br><br>
   </div>
-  <img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" alt="Texto alternativo" style="width: 150px; height: auto; margin-left: 20px;">
+  <img src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" alt="Texto alternativo" style="width: 150px; height: auto; display: block; margin-left: 0; margin-rigth: auto;">
 </div>
 
 ---
