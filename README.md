@@ -1,13 +1,17 @@
 # 💫 About me:
+
+# 💫 About me:
 <div style="display: flex; align-items: center;">
-  <div>
+  <div style="flex: 1;">
     🎓💻 Estudante de Análise e Desenvolvimento de Sistemas na FICR e Sistemas de Informação na UFRPE.<br>
     👩🏾‍💻🖌️ Desenvolvedora Full-Stack com paixão por resolver problemas complexos e transformar ideias em soluções inovadoras e eficientes.<br>
-    🤖📙Estudante com interesse em inteligência artificial e desenvolvimento web.<br>
+    🤖📙 Estudante com interesse em inteligência artificial e desenvolvimento web.<br>
     💕🔎 Sempre em busca de aprendizado contínuo e desafios que impulsionem meu crescimento profissional e pessoal.<br><br>
   </div>
-  <img align="right" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" alt="Texto alternativo" style="width: 150px; height: auto;">
+  <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png" style="max-width: 100%;">
 </div>
+
+
 
 ---
  
