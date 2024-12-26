@@ -1,6 +1,4 @@
 # 💫 About me:
-
-# 💫 About me:
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     🎓💻 Estudante de Análise e Desenvolvimento de Sistemas na FICR e Sistemas de Informação na UFRPE.<br>
