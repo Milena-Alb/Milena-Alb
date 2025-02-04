@@ -63,11 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Milena-Alb&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </div>  
 
-### 🔥 **GitHub Streak**  
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Milena-Alb&theme=dark&hide_border=true" />
-</div>  
-
 ### 🌍 **Top Languages**  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-Alb&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
